@@ -1,0 +1,8 @@
+# Файлы БД и конфигов
+*.db
+*.sqlite
+DB_CONFIG.py
+
+# Временные файлы
+__pycache__/
+img/
