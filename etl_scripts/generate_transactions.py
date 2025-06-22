@@ -23,4 +23,3 @@ def generate_transactions():
 if __name__ == '__main__':
 
     print(generate_transactions())
-    ...
