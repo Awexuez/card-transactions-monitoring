@@ -36,8 +36,7 @@ transaction-monitoring/
 ├── dwh/                             # Database information
 │   ├── CREATE_TABLE.sql                            
 │   └── dump-card_transactions.sql
-├── Transactions_by_day.pbix
-├── card_transactions.pptx
+├── transactions_by_day.pbix
 ├── card_transactions.csv   
 └── README.md
 ```
